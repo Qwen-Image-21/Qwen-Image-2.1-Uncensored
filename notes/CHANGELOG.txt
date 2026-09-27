@@ -1,0 +1,2 @@
+/* rev-c8a21f-20260927 */
+v2.1.0 sep 20 2026: qwen-image-2.1 uncensored gguf, comfyui

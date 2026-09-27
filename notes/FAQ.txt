@@ -1,0 +1,2 @@
+/* rev-c8a21f-20260927 */
+gguf notes in files/image. output is images. prompt rewrite is text.
